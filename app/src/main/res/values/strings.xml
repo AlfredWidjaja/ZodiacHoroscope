@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Zodiac Horoscopes</string>
+
+    <!-- Text View label -->
+    <string name="header">Zodiac Horoscope Checker</string>
+    <string name="check_desc">What is your zodiac?\n
+        Let’s check it out</string>
+    <string name="header_check">My Zodiac</string>
+    <string name="name_label">Name</string>
+    <string name="date_label">Date</string>
+    <string name="month_label">Month</string>
+    <string name="history_header">User Input History</string>
+
+    <!-- Text view navbar -->
+    <string name="homepage">HOME</string>
+    <string name="checkpage">CHECK</string>
+    <string name="historypage">HISTORY</string>
+    <!-- Edit text -->
+    <string name="input_name">Input your name</string>
+    <string name="input_date">Input your birth date</string>
+
+    <!-- String text spinner for month -->
+    <string-array name="month_spinner_items">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Button label -->
+    <string name="check_button">Check</string>
+    <string name="history_button">History</string>
+    <string name="save_button">Save</string>
+
+    <!-- Image Description -->
+    <string name="img_des_load">Loading icon</string>
+    <string name="img_header_icon">Header image</string>
+</resources>
